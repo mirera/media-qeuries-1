@@ -9,7 +9,7 @@ body{
     font-size: 16px;
     font-family: Poppins sans-serif;
     background-color: rgb(226, 122, 140);
-    background-image:url('/resources/bg-intro-desktop.png') ;
+    background-image:url('/media-qeuries-1/resources/bg-intro-desktop.png') ;
 }
 .container{
     width: 70%;
