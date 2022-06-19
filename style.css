@@ -11,7 +11,7 @@ body{
     height: 500px;
     width: 900px;
     background-color: rgb(226, 122, 140);
-    background-image: url(/resources/bg-intro-desktop.png);
+    background-image: url(/media-qeuries-1/resources/bg-intro-desktop.png);
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 20px auto auto ;
